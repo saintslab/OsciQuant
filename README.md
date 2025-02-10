@@ -3,7 +3,8 @@
 ## Official Source Code for OsciQuant
 This repository contains the official implementation of **Oscillations Make Neural Networks Robust to Quantization**.
 
-For a detailed explanation of the methodology and results, refer to our paper: 
+For a detailed explanation of the methodology and results, refer to our paper:
+
 [**OsciQuant: Quantization-Aware Training with Regularization**](https://arxiv.org/abs/XXXX.XXXXX)
 
 The source code will be updated with experiments after the paper completes peer-review.
