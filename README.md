@@ -5,7 +5,7 @@ This repository contains the official implementation of **Oscillations Make Neur
 
 For a detailed explanation of the methodology and results, refer to our paper:
 
-[**OsciQuant: Quantization-Aware Training with Regularization**](https://arxiv.org/abs/XXXX.XXXXX)
+[**OsciQuant: Quantization-Aware Training with Regularization**](https://arxiv.org/abs/2502.00490)
 
 The source code will be updated with experiments after the paper completes peer-review.
 
